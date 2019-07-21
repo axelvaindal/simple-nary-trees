@@ -1,6 +1,6 @@
 {
   "name": "simple-nary-trees",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": [
     "data-structure",
     "queue"
@@ -14,10 +14,10 @@
   "repository": "https://github.com/M4dNation/simple-nary-trees",
   "license": "MIT",
   "dependencies": {
-    "simple-queues": "1.0.4"
+    "simple-queues": "1.0.5"
   },
   "devDependencies": {
-    "jest": "24.1.0",
+    "jest": "24.8.0",
     "xo": "0.24.0"
   },
   "prettier": {
